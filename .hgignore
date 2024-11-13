@@ -1,0 +1,11 @@
+# use glob syntax.
+syntax: glob
+
+*.log
+*.pyc
+.pytest_cache/*
+.ruff_cache/*
+Data/*
+./Rate_card_Himanshi.xlsx
+secrets/*
+outputs/*
